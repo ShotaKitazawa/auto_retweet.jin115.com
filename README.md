@@ -1,3 +1,5 @@
+**Do not maintain any more**
+
 # About
 
 オレ的ゲーム速報@刃 (http://jin115.com/) から 人気ツイートをスクレイピングして、自動リツイートします。
